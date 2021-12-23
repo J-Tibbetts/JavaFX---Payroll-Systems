@@ -1,0 +1,23 @@
+/*
+  Jeff Tibbetts
+  08.16.2021
+  Final Project - Java 285
+  Original ReadEmployeeRecord, WriteEmployeeRecord, EmployeeRecord and EmpRec all provided
+  by Prof Haley
+  -Its been a great semester! The main program is in ScheduleMainUI
+
+*/
+
+So the enclosed java classes and interfaces culminate in my Restaurant Employee Scheduling program.
+This program essentially simulates a simple database management system, allowing the user to input 
+different position codes to create clock in profiles. Employees can then be entered and bounded to 
+a fixed department and given a maximum job code to clock in under. These employees may also clock 
+in using any lower # jobCode as well.
+The user may then schedule these employees for different shifts using the clock in profile. The main
+scheduling UI will display a report for a given time period and an employee roster. The menus for entering
+data are a bit overly dynamic, requiring a specific entry order. I admit its not the most fluid process
+but it does display plenty of eventHandlers, collections and different FX objects. Its not the most efficient system,
+but hopefully it isn't too bad for someone knew java as little more than a hot caffinated beverage six
+months ago.
+Hopefully this fulfills the requirements of the assignment and I would love to polish this further during
+the next semester!
